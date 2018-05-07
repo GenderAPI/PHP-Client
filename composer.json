@@ -1,0 +1,16 @@
+{
+    "name": "genderapi/php-client",
+    "description": "GenderAPI PHP Composer Package",
+    "authors": [
+        {
+            "name": "Hüseyin Kaplay",
+            "email": "huseyinkaplay@windowslive.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "GenderApi\\":"GenderApi/libs/"
+        }
+    }
+}
